@@ -1,3 +1,9 @@
+# skipping folders
+.idea/
+
+#skipping intellij files
+*.iml
+
 # Compiled class file
 *.class
 
